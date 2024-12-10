@@ -1,0 +1,181 @@
+{
+  "vacancies": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "description": "Join our dynamic tech team to build innovative solutions and improve user experiences.",
+      "companyName": "Innovatech Solutions",
+      "category": "Technology",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH47gGkIarAt_sIUaBGUNCaSfXRLh1bjqw5A&s",
+      "viewCount": 1347,
+      "questions": [
+        {
+          "id": "1",
+          "text": "Which of the following is a commonly used version control system?",
+          "options": ["1. Git", "2. Excel", "3. PowerPoint"],
+          "answer": "1. Git"
+        },
+        {
+          "id": "2",
+          "text": "What does 'OOP' stand for in programming?",
+          "options": [
+            "1. Object-Oriented Programming",
+            "2. Output-Only Programming",
+            "3. Online Operations Process"
+          ],
+          "answer": "1. Object-Oriented Programming"
+        },
+        {
+          "id": "3",
+          "text": "Which HTTP status code indicates a resource was not found?",
+          "options": ["1. 404", "2. 200", "3. 500"],
+          "answer": "1. 404"
+        }
+      ]
+    },
+    {
+      "id": "f7c9a6d5-bcd3-42b9-b194-58a4cfc0e925",
+      "title": "Marketing Specialist",
+      "description": "We’re looking for a creative marketing professional to drive our brand strategies.",
+      "companyName": "Brandify Marketing",
+      "category": "Marketing",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH47gGkIarAt_sIUaBGUNCaSfXRLh1bjqw5A&s",
+      "viewCount": 985,
+      "questions": [
+        {
+          "id": "1",
+          "text": "Which metric measures the percentage of users who take a desired action?",
+          "options": [
+            "1. Conversion Rate",
+            "2. Bounce Rate",
+            "3. Click-Through Rate"
+          ],
+          "answer": "1. Conversion Rate"
+        },
+        {
+          "id": "2",
+          "text": "What does SEO stand for?",
+          "options": [
+            "1. Search Engine Optimization",
+            "2. Social Engagement Outreach",
+            "3. Site Efficiency Overview"
+          ],
+          "answer": "1. Search Engine Optimization"
+        },
+        {
+          "id": "3",
+          "text": "Which social media platform is known for professional networking?",
+          "options": ["1. LinkedIn", "2. Instagram", "3. TikTok"],
+          "answer": "1. LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": "a12fcd9b-8b54-4ed7-843b-345c7db8b20a",
+      "title": "Data Analyst",
+      "description": "Analyze and interpret data to help us make informed business decisions.",
+      "companyName": "DataEdge Analytics",
+      "category": "Analytics",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH47gGkIarAt_sIUaBGUNCaSfXRLh1bjqw5A&s",
+      "viewCount": 743,
+      "questions": [
+        {
+          "id": "1",
+          "text": "Which tool is commonly used for data visualization?",
+          "options": ["1. Tableau", "2. Microsoft Word", "3. Photoshop"],
+          "answer": "1. Tableau"
+        },
+        {
+          "id": "2",
+          "text": "What is the mean of the data set [2, 4, 6, 8]?",
+          "options": ["1. 5", "2. 6", "3. 10"],
+          "answer": "2. 6"
+        },
+        {
+          "id": "3",
+          "text": "Which of these is a common programming language for data analysis?",
+          "options": ["1. Python", "2. HTML", "3. CSS"],
+          "answer": "1. Python"
+        }
+      ]
+    },
+    {
+      "id": "9df5be02-4b8b-46ab-8a73-bf6c9c5b0418",
+      "title": "Human Resources Manager",
+      "description": "Lead our HR department to foster a collaborative and inclusive workplace.",
+      "companyName": "PeopleFirst HR",
+      "category": "Human Resources",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH47gGkIarAt_sIUaBGUNCaSfXRLh1bjqw5A&s",
+      "viewCount": 1120,
+      "questions": [
+        {
+          "id": "1",
+          "text": "Which of the following is an example of a performance review method?",
+          "options": [
+            "1. 360-Degree Feedback",
+            "2. Weekly Payroll",
+            "3. Training Workshops"
+          ],
+          "answer": "1. 360-Degree Feedback"
+        },
+        {
+          "id": "2",
+          "text": "What does 'HR' stand for?",
+          "options": [
+            "1. Human Resources",
+            "2. Hiring Representative",
+            "3. High Returns"
+          ],
+          "answer": "1. Human Resources"
+        },
+        {
+          "id": "3",
+          "text": "What is the primary purpose of an employee handbook?",
+          "options": [
+            "1. To outline company policies and expectations",
+            "2. To provide a list of company clients",
+            "3. To advertise company products"
+          ],
+          "answer": "1. To outline company policies and expectations"
+        }
+      ]
+    },
+    {
+      "id": "c3e9b07d-2d6f-4708-9f59-48e9ac12fb3f",
+      "title": "Graphic Designer",
+      "description": "Bring your creativity to our design team and shape compelling visuals for our brand.",
+      "companyName": "Creative Studios",
+      "category": "Design",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH47gGkIarAt_sIUaBGUNCaSfXRLh1bjqw5A&s",
+      "viewCount": 890,
+      "questions": [
+        {
+          "id": "1",
+          "text": "Which of the following is a commonly used graphic design software?",
+          "options": [
+            "1. Adobe Photoshop",
+            "2. Microsoft Excel",
+            "3. Google Slides"
+          ],
+          "answer": "1. Adobe Photoshop"
+        },
+        {
+          "id": "2",
+          "text": "Which color model is used for digital screens?",
+          "options": ["1. RGB", "2. CMYK", "3. HSL"],
+          "answer": "1. RGB"
+        },
+        {
+          "id": "3",
+          "text": "What does DPI stand for in design?",
+          "options": [
+            "1. Dots Per Inch",
+            "2. Design Per Input",
+            "3. Digital Pixel Index"
+          ],
+          "answer": "1. Dots Per Inch"
+        }
+      ]
+    }
+  ]
+}
